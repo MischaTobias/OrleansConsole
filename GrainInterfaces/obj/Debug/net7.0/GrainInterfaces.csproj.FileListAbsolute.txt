@@ -1,0 +1,12 @@
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.deps.json
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.dll
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.pdb
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.csproj.AssemblyReference.cache
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.AssemblyInfoInputs.cache
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.AssemblyInfo.cs
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.dll
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\refint\GrainInterfaces.dll
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.pdb
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\ref\GrainInterfaces.dll
